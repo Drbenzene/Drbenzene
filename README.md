@@ -2,7 +2,7 @@
 * Name: Boyinbode Ebenezer Ayomide (Drbenzene)
 * Gender: M
 * Short Bio: 
-  - Student of **A graduate of Chemistry** in ****, Nigeria.
+  - **A graduate of Chemistry** in ****, Nigeria.
   - A Freelancer 
   - A tech enthutiast and enterprenur. 
   - The Co-Founder of BillAfrica
