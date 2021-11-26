@@ -6,7 +6,6 @@
   - A Freelancer 
   - A tech enthutiast and enterprenur. 
   - Currently doing a Software Engineering program at [Holberton School](https://www.holbertonschool.com/), in partnership with [alx](https://www.alxafrica.com/software/).
-  - Currently a intern at Kodecap in partnership with HNG for mobile development track. 
   - Learning computer programming full-time. Soon-to-be the best software engineer that I can be.
  
 ---
