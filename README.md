@@ -18,6 +18,8 @@
 <a href="https://fb.com/boyinbode.ebenezer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="boyinbode.ebenezer" height="30" width="40" /></a>
 </p>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=drbenzene&label=Profile%20views&color=0e75b6&style=flat" alt="drbenzene" /> </p>
 ## <br>
 
 
