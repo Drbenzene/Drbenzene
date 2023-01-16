@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/boyinbodeee" target="blank"><img src="https://img.shields.io/twitter/follow/boyinbodeee?logo=twitter&style=for-the-badge" alt="boyinbodeee" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://boyinbode.vercel.app](https://boyinbode.vercel.app)
-
 - 📫 How to reach me **boyinbodedev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
